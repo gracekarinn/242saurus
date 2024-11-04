@@ -1,3 +1,21 @@
+gracekarinn:
+  name: Grace Karina
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/gracekarinn
+  image_url: https://github.com/gracekarinn.png
+  page: true
+  socials:
+    github: gracekarinn
+
+widaputri:
+  name: Wida Putri
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/widaputri
+  image_url: https://github.com/widaputri.png
+  page: true
+  socials:
+    github: widaputri
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
